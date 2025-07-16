@@ -1,4 +1,5 @@
 # MH College Recommendation System
+
 A machine learning–based web application that recommends engineering colleges in Maharashtra based on user inputs like:
 
 🎯 MHT-CET Score
@@ -41,19 +42,13 @@ Copy
 Edit
 git clone https://github.com/Raghav-coder2004/MH_CollegeRecommendation.git
 cd MH_CollegeRecommendation
-Install dependencies
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
 Run the app
 
 bash
 Copy
 Edit
 python app.py
-Open browser at:
+Open your browser at:
 
 cpp
 Copy
